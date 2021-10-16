@@ -113,6 +113,7 @@ Use code "\<br\>" to create line breaks
 You can attach image files directly to a notebook in Markdown cells. Drag and drop your images to the Mardown cell to attach it to the notebook.
 
 ![Jupyter](attachment:download.png)
+![Jupyter_logo](https://user-images.githubusercontent.com/70002987/137591198-1f1947c0-26db-409c-a34c-b99a5cd2e723.png)
 
 or you can you can provide a URL image link (Note that images typically start with an exclaimation point)
 
