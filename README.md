@@ -180,3 +180,4 @@ Completed items will include an X while uncompleted items will be left empty.
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
+- [ ] - [ ] This is an incomplete item
